@@ -1,2 +1,2 @@
-# hugo-test
-Hugo static website for testing
+# web-test
+Static website for testing
